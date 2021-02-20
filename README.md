@@ -2,7 +2,7 @@
 riddle solver based on riddles from "Algorithmic Thinking And Problem Solving" Course
 
 ## INSTALLATION
-> git clone https://github.com/TAL4real/TalsRiddleSolver.git
+``git clone https://github.com/TAL4real/TalsRiddleSolver.git``
 ## HOW TO RUN
 ```
 cd path/to/TalsRiddleSolver
