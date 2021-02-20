@@ -1,5 +1,5 @@
 # TalsRiddleSolver
-riddle solver based on riddles from "Algorithmic Thinking And Problem Solving" Course
+Riddle solver based on riddles from "Algorithmic Thinking And Problem Solving" academic course
 
 ## INSTALLATION
 ``git clone https://github.com/TAL4real/TalsRiddleSolver.git``
@@ -10,7 +10,7 @@ cd path/to/TalsRiddleSolver
 python TalsRiddleSolver.py
 ```
 ## USES
-the calculator includes 8 riddles:
+The calculator includes 8 riddles:
 1.  Snake Skin         
 1.  FireFighters Ladder
 1.  XOR                 
