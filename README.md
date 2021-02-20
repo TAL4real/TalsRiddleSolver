@@ -4,7 +4,8 @@ riddle solver based on riddles from "Algorithmic Thinking And Problem Solving" C
 ## INSTALLATION
 ``` git clone https://github.com/TAL4real/TalsRiddleSolver.git```
 ## HOW TO RUN
-```path\to\TalsRiddleSolver> python TalsRiddleSolver.py```
+```cd path/to/TalsRiddleSolver
+path\to\TalsRiddleSolver> python TalsRiddleSolver.py```
 ## USES
 the calculator includes 8 riddles:
 1.  Snake Skin         
