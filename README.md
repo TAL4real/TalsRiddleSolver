@@ -1,4 +1,4 @@
-# Tal'sRiddleSolver
+# Tal's Riddle Solver
 Riddle solver based on riddles from "Algorithmic Thinking And Problem Solving" academic course
 
 ## INSTALLATION
