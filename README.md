@@ -12,10 +12,10 @@ python TalsRiddleSolver.py
 ## USES
 the calculator includes 8 riddles:
 1.  Snake Skin         
-2.  FireFighters Ladder
-3.  XOR                 
-4.  HanoiTowers         
-5.  Josephus Problem    
-6.  Light Bulbs         
-7.  Yarkan's Problem    
-8.  Coins Chain
+1.  FireFighters Ladder
+1.  XOR                 
+1.  HanoiTowers         
+1.  Josephus Problem    
+1.  Light Bulbs         
+1.  Yarkan's Problem    
+1.  Coins Chain
