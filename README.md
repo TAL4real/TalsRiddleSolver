@@ -6,6 +6,7 @@ riddle solver based on riddles from "Algorithmic Thinking And Problem Solving" C
 ## HOW TO RUN
 ```
 cd path/to/TalsRiddleSolver
+  
 python TalsRiddleSolver.py
 ```
 ## USES
